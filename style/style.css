@@ -1,0 +1,234 @@
+@media print {
+  tr.media {
+      background-color: #1a4567 !important;
+      -webkit-print-color-adjust: exact; 
+  }
+  tr {
+    -webkit-print-color-adjust: exact; 
+  }
+}
+
+body{
+    font-size:20px;
+    background: white;
+    margin-left:10px;
+}
+
+td {
+    white-space: nowrap;     
+    text-align: center;
+  }
+
+ul {
+  text-align:center;
+  line-height: 2;
+  list-style-type: none;  
+}
+
+
+  p.date {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  p.pheading {
+    text-align: center;    
+    margin-left: auto;
+    margin-right: auto;
+    color: red;
+    font-size: 50px;
+    font-weight: bolder;
+  }
+
+  p.p2heading {
+    text-align: center;    
+    margin-left: auto;
+    margin-right: auto;
+    color: red;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 50px;
+  }
+
+  h2 {
+    color: red;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;    
+    text-decoration: underline;
+    margin-top:100px;
+    font-size:25px;    
+  }
+
+  img.logo {
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    display: block;
+    margin-bottom:150px;
+    page-break-after: always;
+  }
+
+  img.imagehead {
+    align-content: center;
+    min-width: 20px;
+    max-width:500px;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom:50px;
+  }
+  img.imagetable {
+    align-content: center;
+    min-width: 20px;
+    max-width:250px;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom:50px;
+    margin-top:50px;
+  }
+
+  table {
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    page-break-after: always;
+    /* border-top: 2px solid black; */
+  }
+
+
+.table-header-rotated th.row-header{
+    width: auto;    
+  }
+  
+  .table-header-rotated td{
+    width: 40px;
+    border-top: 1px solid #dddddd;
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+    vertical-align: middle;
+    text-align: left;
+  }
+  
+  .th-name {
+    height: 80px;
+    width: 140px;
+    min-width: 40px;
+    max-width: 300px;
+    position: relative;
+    vertical-align: bottom;
+    padding: 0;
+    font-size: 18px;
+    line-height: 0.8;
+  }
+
+  .th-lag {
+    height: 80px;
+    width: 140px;
+    min-width: 40px;
+    max-width: 300px;
+    position: relative;
+    vertical-align: bottom;
+    padding: 0;
+    font-size: 18px;
+    line-height: 0.8;
+  }
+
+  .th-normal {
+    height: 80px;
+    width: 40px;
+    min-width: 40px;
+    max-width: 300px;
+    position: relative;
+    vertical-align: bottom;
+    padding: 0;
+    font-size: 18px;
+    line-height: 0.8;
+  }
+
+  .table-header-rotated th.rotate-45{
+    height: 80px;
+    width: 40px;
+    min-width: 40px;
+    max-width: 40px;
+    position: relative;
+    vertical-align: bottom;
+    padding: 0;
+    font-size: 18px;
+    line-height: 0.8;
+  }
+  
+  .table-header-rotated th.rotate-45 > div{
+    position: relative;
+    top: 0px;
+    left: 40px; /* 80 * tan(45) / 2 = 40 where 80 is the height on the cell and 45 is the transform angle*/
+    height: 100%;
+    -ms-transform:skew(-45deg,0deg);
+    -moz-transform:skew(-45deg,0deg);
+    -webkit-transform:skew(-45deg,0deg);
+    -o-transform:skew(-45deg,0deg);
+    transform:skew(-45deg,0deg);
+    overflow: hidden;
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+    border-top: 1px solid #dddddd;
+  }
+  
+  .table-header-rotated th.rotate-45 span {
+    -ms-transform:skew(45deg,0deg) rotate(315deg);
+    -moz-transform:skew(45deg,0deg) rotate(315deg);
+    -webkit-transform:skew(45deg,0deg) rotate(315deg);
+    -o-transform:skew(45deg,0deg) rotate(315deg);
+    transform:skew(45deg,0deg) rotate(315deg);
+    position: absolute;
+    bottom: 30px; /* 40 cos(45) = 28 with an additional 2px margin*/
+    left: -25px; /*Because it looked good, but there is probably a mathematical link here as well*/
+    display: inline-block;    
+    width: 85px; /* 80 / cos(45) - 40 cos (45) = 85 where 80 is the height of the cell, 40 the width of the cell and 45 the transform angle*/
+    text-align: left;    
+  }
+
+  td.total{
+    background: red;
+    text-align: center;
+    font-weight: bold;
+    
+  }
+  td.points
+  {
+    text-align: center;
+  }
+  td.points_strike
+  {
+    text-align: center;
+    text-decoration: line-through;
+  }
+
+  table td.crossed
+  {
+   background-image: linear-gradient(to bottom right,  transparent calc(50% - 1px), red, transparent calc(50% + 1px)); 
+  }
+
+  
+.unqualified_row { background-color: grey}
+
+.col1 { background-color: lightcoral }
+.col2 { background-color: lightblue }
+.col3 { background-color: lightgreen }
+.col2 { background-color: chocolate }
+.col2 { background-color: brown }
+.col2 { background-color: seagreen }
+.col2 { background-color: blueviolet }
+.col2 { background-color: orange }
+.col2 { background-color: beige }
+.col2 { background-color: orchid }
+.col2 { background-color: olive }
+.col2 { background-color: purple }
