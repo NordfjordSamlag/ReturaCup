@@ -7,7 +7,7 @@ img.nf { display:inline; margin-left:auto; margin-right:auto;width=50%; border-s
 span.Space { margin-top:2em;  display:block; }
 span.sectionSpace { margin-top:5em;  display:block; }
 </style>
-# Resultater - Retura Cup
+
 <p>
 <div class="center">
 <a href="https://nordfjord.samlag.no">
