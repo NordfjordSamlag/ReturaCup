@@ -1,3 +1,8 @@
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="imgs/favicon.ico">
+<meta property="og:image" content="https://nordfjordsamlag.github.io/ReturaCup/imgs/Logo.jpg">
+<link rel="image_src" href="https://nordfjordsamlag.github.io/ReturaCup/imgs/Logo.jpg">
+</head>
 <style 
     type="text/css">
 body { color: white; background-color: #1c1c1a; }
