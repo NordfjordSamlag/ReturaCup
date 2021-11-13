@@ -1,2 +1,5 @@
 title: Nordfjord Skyttersamlag - Retura Cup
 description: Miniatyrcup i Nordfjord
+
+plugins:
+  - jekyll-sep-tag
