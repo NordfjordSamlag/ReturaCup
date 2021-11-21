@@ -38,6 +38,7 @@ span.sectionSpace { margin-top:5em;  display:block; }
 # Resultater 2021/2022
 
 ## [Resultater innledende](./2021_2022/ResultList.md)
+8 stevner er tellende
 
 <span class="Space"></span>
 
