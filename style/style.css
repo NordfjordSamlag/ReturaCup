@@ -105,6 +105,10 @@ ul {
     page-break-before: always;
   }
 
+  img.tbllogo {
+    width: 25px;
+    height: 25px
+  }
 
   table {
     align-content: center;
