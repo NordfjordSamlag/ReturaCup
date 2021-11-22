@@ -6,7 +6,7 @@ img.inf { display:inline-block; margin: 0 auto; max-width:100%; height: auto; bo
 div.center { margin: 0 auto; text-align:center;}
 img.nf { display:inline; margin-left:auto; margin-right:auto;width=50%; border-style:none;}
 span.Space { margin-top:2em;  display:block; }
-span.sectionSpace { margin-top:5em;  display:block; }
+span.sectionSpace { margin-top:15em;  display:block; }
 </style>
 
 <p>
@@ -38,7 +38,8 @@ span.sectionSpace { margin-top:5em;  display:block; }
 # Resultater 2021/2022
 
 ## [Resultater innledende](./2021_2022/ResultList.html)
-8 stevner er tellende
+_8 stevner er tellende for 2022_
+<br>
 
 <span class="Space"></span>
 
@@ -49,9 +50,12 @@ span.sectionSpace { margin-top:5em;  display:block; }
 - Januar 2022
     - kommer
 
+
+
 <!-- [Results](https://mittdfs.no/aktuelt-na/resultater/) -->
 
 <span class="sectionSpace"></span>
+
 
 # Historiske resultater
 ## Resultater 2019/2020
