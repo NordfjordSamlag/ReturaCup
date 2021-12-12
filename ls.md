@@ -1,0 +1,27 @@
+## Nettsider 
+- [Elverum 2000](http://res.landsskytterstevnet.no/2000/web/index.htm)
+- [Bodø 2001](http://res.landsskytterstevnet.no/2001/web/)
+- [Ulven-Os 2002](http://res.landsskytterstevnet.no/2002/web/)
+- [Oppdal 2003](http://res.landsskytterstevnet.no/2003/web/)
+- [Sandnes 2004](http://res.landsskytterstevnet.no/2004/web/)
+- [Lesja 2005](http://res.landsskytterstevnet.no/2005/web/)
+- [Målselv 2006](http://res.landsskytterstevnet.no/2006/web/)
+- [Steinkjer 2007](http://res.landsskytterstevnet.no/2007/web/)
+- [Førde 2008](http://res.landsskytterstevnet.no/2008/web/)
+- [Evje 2009](http://res.landsskytterstevnet.no/2009/web/)
+- [Elverum 2010](http://res.landsskytterstevnet.no/2010/web/)
+- [Bodø 2011](http://res.landsskytterstevnet.no/2011/web/)
+- [Voss 2012](http://res.landsskytterstevnet.no/2012/web/)
+- [Oppdal 2013](http://res.landsskytterstevnet.no/2013/web/)
+- [Sandnes 2014](http://res.landsskytterstevnet.no/2014/web/)
+- [Lesja 2015](http://res.landsskytterstevnet.no/2015/web/)
+- [Øvre Målselv 2016](http://res.landsskytterstevnet.no/2016/web/)
+- [Førde 2017](http://res.landsskytterstevnet.no/2017/web/)
+- [Stjørdal 2018](http://res.landsskytterstevnet.no/2018/web/)
+- [Evje 2019](http://res.landsskytterstevnet.no/2019/web/)
+- [Mestermøte 2020](https://2021.lsres.no/)
+- [Skytternes Mestermøte Elverum  2021](http://res.landsskytterstevnet.no/2021/)
+
+
+## LSRes 
+- [Søkbare lister](https://lsres.no/)

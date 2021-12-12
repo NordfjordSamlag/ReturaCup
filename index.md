@@ -29,16 +29,16 @@ span.sectionSpace { margin-top:15em;  display:block; }
 # Stevner 2021/2022
 
 - November 2021
-    - [Hornindal og Markane, 18.-21. november 2021](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2021/innandorsstemne-miniatyr/)
-    - [Nordbygda og Rand, 20.-21. november 2021](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2021/retura-cup-15m---nordbygda-og-rand/)
+    - ~~[Hornindal og Markane, 18.-21. november 2021](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2021/innandorsstemne-miniatyr/)~~
+    - ~~[Nordbygda og Rand, 20.-21. november 2021](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2021/retura-cup-15m---nordbygda-og-rand/)~~
 - Januar 2022
-    - kommer
+    - kommer 
 <span class="Space"></span>
 
 # Resultater 2021/2022
 
 ## [Resultater innledende](./2021_2022/ResultList.html)
-_8 stevner er tellende for 2022_
+> _8 stevner er tellende for 2022_
 <br>
 
 <span class="Space"></span>
