@@ -211,6 +211,11 @@ ul {
     text-align: left;    
   }
 
+  a.back {
+    font-size: small;
+    font-weight: bold;
+  }
+
   td.total{
     background: red;
     text-align: center;
@@ -232,6 +237,9 @@ ul {
    background-image: linear-gradient(to bottom right,  transparent calc(50% - 1px), red, transparent calc(50% + 1px)); 
   }
 
+  p.striked {
+    text-decoration: line-through;
+  }
   
 .unqualified_row { background-color: grey}
 
