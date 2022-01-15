@@ -27,20 +27,20 @@ span.sectionSpace { margin-top:15em;  display:block; }
 <span class="sectionSpace"></span>
 
 # Stevner 2021/2022
-_Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjekk gjerne [Arrangementskalenderen](https://mittdfs.no/aktuelt-na/arrangementskalender/?time=NextThirtyDays&includeLocal=False&a=False&region=10036)_
+_Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjekk [Arrangementskalenderen](https://mittdfs.no/aktuelt-na/arrangementskalender/?time=NextThirtyDays&includeLocal=False&a=False&region=10036)_
 
 <span class="Space"></span>
 - November 2021
     - ~~[Hornindal og Markane, 18.-21. november 2021](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2021/innandorsstemne-miniatyr/)~~
     - ~~[Nordbygda og Rand, 20.-21. november 2021](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2021/retura-cup-15m---nordbygda-og-rand/)~~
 - Januar 2022
-    - [Hundeide, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hundeide/arrangementer/2022/15-m-miniatyr/)
-    - [Haugen, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/haugen/arrangementer/2022/15-m-miniatyr/)
-    - [Hornindal og Markane, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2022/15-m-miniatyr/)
+    - ~~[Hundeide, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hundeide/arrangementer/2022/15-m-miniatyr/)~~ Avlyst?
+    - ~~[Haugen, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/haugen/arrangementer/2022/15-m-miniatyr/)~~ Avlyst?
+    - ~~[Hornindal og Markane, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2022/15-m-miniatyr/)~~ Avlyst?
     - [Hyen, 21.-23. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hyen/arrangementer/2022/15-m-miniatyr/)
-    - [Eidsbygda, 28.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/eidsbygda/arrangementer/2022/15-m-miniatyr/)
-    - [Utvik og Innvik, 28.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/utvik-og-innvik/arrangementer/2022/15-m-miniatyr/)
-    - [Nordbygda og Rand, 28.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2022/15-m-miniatyr/)
+    - [Eidsbygda, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/eidsbygda/arrangementer/2022/15-m-miniatyr/)
+    - [Utvik og Innvik, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/utvik-og-innvik/arrangementer/2022/15-m-miniatyr/)
+    - [Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2022/15-m-miniatyr/)
 - Februar 2022
     -  [Almenning, 4.-6. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/almenning/arrangementer/2022/15-m-miniatyr/)
     -  [Stadlandet, 4.-6. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/stadlandet/arrangementer/2022/15-m-miniatyr/)
@@ -62,7 +62,11 @@ _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjek
     - [Hornindal og Markane](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=214250)
     - [Nordbygda og Rand](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=214207)
 - Januar 2022
-    - kommer
+    - [Eidsbygda, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=22037)
+    - [Utvik og Innvik, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=22038)
+    - [Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=22039)
+- Februar 2022
+    - ..
 
 
 
