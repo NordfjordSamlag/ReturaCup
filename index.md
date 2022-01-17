@@ -37,7 +37,7 @@ _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjek
     - ~~[Hundeide, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hundeide/arrangementer/2022/15-m-miniatyr/)~~ Avlyst?
     - ~~[Haugen, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/haugen/arrangementer/2022/15-m-miniatyr/)~~ Avlyst?
     - ~~[Hornindal og Markane, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2022/15-m-miniatyr/)~~ Avlyst?
-    - [Hyen, 21.-23. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hyen/arrangementer/2022/15-m-miniatyr/)
+    - [Hyen, 20.-23. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hyen/arrangementer/2022/15-m-miniatyr/)
     - [Eidsbygda, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/eidsbygda/arrangementer/2022/15-m-miniatyr/)
     - [Utvik og Innvik, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/utvik-og-innvik/arrangementer/2022/15-m-miniatyr/)
     - [Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2022/15-m-miniatyr/)
