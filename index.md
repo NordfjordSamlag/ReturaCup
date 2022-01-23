@@ -23,8 +23,12 @@ span.sectionSpace { margin-top:15em;  display:block; }
 <!-- ![alt text](./imgs/Logo.jpg "Retura") -->
 <!-- ![alt text](./imgs/retura.png "Retura") -->
 </p>
-
 <span class="sectionSpace"></span>
+
+Retura-cup i Nordfjord er en cup for miniatyrstevnene i Nordfjord Skyttarsamlag.\
+De beste skytterne inviteres til en finale (Hornindal og Markane 15.-17. mars 2022).\
+Det er premiering i rekrutteringsklassene. I senior og veteran er det kamp om heder og ære.\
+<span class="Space"></span>
 
 # Stevner 2021/2022
 _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjekk [Arrangementskalenderen](https://mittdfs.no/aktuelt-na/arrangementskalender/?time=NextThirtyDays&includeLocal=False&a=False&region=10036)_
@@ -37,7 +41,7 @@ _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjek
     - ~~[Hundeide, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hundeide/arrangementer/2022/15-m-miniatyr/)~~ Avlyst?
     - ~~[Haugen, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/haugen/arrangementer/2022/15-m-miniatyr/)~~ Avlyst?
     - ~~[Hornindal og Markane, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2022/15-m-miniatyr/)~~ Avlyst?
-    - [Hyen, 20.-23. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hyen/arrangementer/2022/15-m-miniatyr/)
+    - ~~[Hyen, 20.-23. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hyen/arrangementer/2022/15-m-miniatyr/)~~
     - [Eidsbygda, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/eidsbygda/arrangementer/2022/15-m-miniatyr/)
     - [Utvik og Innvik, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/utvik-og-innvik/arrangementer/2022/15-m-miniatyr/)
     - [Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2022/15-m-miniatyr/)
@@ -62,9 +66,10 @@ _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjek
     - [Hornindal og Markane](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=214250)
     - [Nordbygda og Rand](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=214207)
 - Januar 2022
-    - [Eidsbygda, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=22037)
-    - [Utvik og Innvik, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=22038)
-    - [Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=22039)
+    - [Hyen, 20.-23. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22036)
+    - [Eidsbygda, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22037)    
+    - [Utvik og Innvik, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22038)
+    - [Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22039)
 - Februar 2022
     - ..
 
