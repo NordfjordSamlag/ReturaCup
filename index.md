@@ -23,11 +23,19 @@ span.sectionSpace { margin-top:15em;  display:block; }
 <!-- ![alt text](./imgs/Logo.jpg "Retura") -->
 <!-- ![alt text](./imgs/retura.png "Retura") -->
 </p>
-<span class="sectionSpace"></span>
+<span class="Space"></span>
 
 Retura-cup i Nordfjord er en cup for miniatyrstevnene i Nordfjord Skyttarsamlag.\
 De beste skytterne inviteres til en finale (Hornindal og Markane 15.-17. mars 2022).\
 Det er premiering i rekrutteringsklassene. I senior og veteran er det kamp om heder og ære.\
+<span class="Space"></span>
+
+# Resultater 2021/2022
+
+## [Resultater innledende](./2021_2022/ResultList.html)
+> _8 stevner er tellende for 2022_
+<br>
+
 <span class="Space"></span>
 
 # Stevner 2021/2022
@@ -53,14 +61,6 @@ _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjek
     -  **Finaler:** [Hornindal og Markane, 15-17. mars](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2022/15-m-miniatyr2/)
 <span class="Space"></span>
 
-# Resultater 2021/2022
-
-## [Resultater innledende](./2021_2022/ResultList.html)
-> _8 stevner er tellende for 2022_
-<br>
-
-<span class="Space"></span>
-
 ## Enkeltresultater Stevner
 - November 2021
     - [Hornindal og Markane](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=214250)
@@ -77,7 +77,7 @@ _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjek
 
 <!-- [Results](https://mittdfs.no/aktuelt-na/resultater/) -->
 
-<span class="sectionSpace"></span>
+<span class="Space"></span>
 
 
 # Historiske resultater
