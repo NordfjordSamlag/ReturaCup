@@ -54,7 +54,7 @@ _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjek
     - ~~[Utvik og Innvik, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/utvik-og-innvik/arrangementer/2022/15-m-miniatyr/)~~
     - ~~[Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2022/15-m-miniatyr/)~~
 - Februar 2022    
-    -  [Stadlandet, 4.-6. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/stadlandet/arrangementer/2022/15-m-miniatyr/)
+    -  ~~[Stadlandet, 4.-6. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/stadlandet/arrangementer/2022/15-m-miniatyr/)~~
     -  [Almenning, 25.-27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/almenning/arrangementer/2022/15-m-miniatyr/)
     -  [Gulen, 25.-27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/stadlandet/arrangementer/2022/15-m-miniatyr/)
 - Mars 2022
@@ -71,6 +71,7 @@ _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjek
     - [Utvik og Innvik, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22038)
     - [Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22039)
 - Februar 2022
+    - [Stadlandet, 4.-6. februar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22041)
     - ..
 
 
