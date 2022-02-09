@@ -33,7 +33,7 @@ Det er premiering i rekrutteringsklassene. I senior og veteran er det en konkurr
 # Resultater 2021/2022
 
 ## [Resultater innledende](./2021_2022/ResultList.html)
-> _8 stevner er tellende for 2022_
+> _7* stevner er tellende for 2022_  (*Feb 2022: Endret fra 8 til 7 pga avlyste stevner i år)
 <br>
 
 <span class="Space"></span>
