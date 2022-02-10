@@ -56,7 +56,7 @@ _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjek
 - Februar 2022    
     -  ~~[Stadlandet, 4.-6. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/stadlandet/arrangementer/2022/15-m-miniatyr/)~~
     -  [Almenning, 25.-27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/almenning/arrangementer/2022/15-m-miniatyr/)
-    -  [Gulen, 25.-27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/stadlandet/arrangementer/2022/15-m-miniatyr/)
+    -  [Gulen, 25.-27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/gulen/arrangementer/2022/15-m-miniatyr/)
 - Mars 2022
     -  **Finaler:** [Hornindal og Markane, 15-17. mars](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2022/15-m-miniatyr2/)
 <span class="Space"></span>
