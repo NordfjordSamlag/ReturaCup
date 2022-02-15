@@ -55,8 +55,8 @@ _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjek
     - ~~[Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2022/15-m-miniatyr/)~~
 - Februar 2022    
     -  ~~[Stadlandet, 4.-6. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/stadlandet/arrangementer/2022/15-m-miniatyr/)~~
-    -  [Almenning/Bryggja, 25.-27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/almenning/arrangementer/2022/15-m-miniatyr/)
-    -  [Gulen, 25.-27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/gulen/arrangementer/2022/15-m-miniatyr/)
+    -  [Almenning/Bryggja, (25.)26.-27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/almenning/arrangementer/2022/15-m-miniatyr/)
+    -  [Gulen, 23. og 27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/gulen/arrangementer/2022/15-m-miniatyr/)
 - Mars 2022
     -  **Finaler:** [Hornindal og Markane, 15-17. mars](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2022/15-m-miniatyr2/)
 <span class="Space"></span>
@@ -72,8 +72,8 @@ _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjek
     - [Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22039)
 - Februar 2022
     - [Stadlandet, 4.-6. februar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22041)
-    - [Almenning/Bryggja, 25.-27. februar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22040)
-    - [Gulen, 25.-27. februar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22042)
+    - [Almenning/Bryggja, (25.)26.-27. februar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22040)
+    - [Gulen, 23. og 27. februar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22042)
 
 
 
