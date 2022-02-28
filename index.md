@@ -34,7 +34,6 @@ Det er premiering i rekrutteringsklassene. I senior og veteran er det en konkurr
 <span class="Space"></span>
 
 # Resultater 2021/2022
-<table><tr><td>Kvalifisert for finale</td><td class="unqualified">Inviteres til finale ved forfall</td></tr></table>
 
 ## [Resultater innledende](./2021_2022/ResultList.html)
 > _7* stevner er tellende for 2022_  (*Feb 2022: Endret fra 8 til 7 pga avlyste stevner i år)
