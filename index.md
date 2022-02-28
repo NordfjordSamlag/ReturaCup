@@ -2,6 +2,9 @@
 <style 
     type="text/css">
 body { color: white; background-color: #1c1c1a; }
+td.d1 {color: black; background-color:grey}
+td.d2 {color: black; background-color:white}
+
 img.inf { display:inline-block; margin: 0 auto; max-width:100%; height: auto; border-style:none; text-align:center;}
 div.center { margin: 0 auto; text-align:center;}
 img.nf { display:inline; margin-left:auto; margin-right:auto;width=50%; border-style:none;}
@@ -31,6 +34,7 @@ Det er premiering i rekrutteringsklassene. I senior og veteran er det en konkurr
 <span class="Space"></span>
 
 # Resultater 2021/2022
+<table><tr><td>Kvalifisert for finale</td><td class="unqualified">Inviteres til finale ved forfall</td></tr></table>
 
 ## [Resultater innledende](./2021_2022/ResultList.html)
 > _7* stevner er tellende for 2022_  (*Feb 2022: Endret fra 8 til 7 pga avlyste stevner i år)
@@ -39,24 +43,23 @@ Det er premiering i rekrutteringsklassene. I senior og veteran er det en konkurr
 <span class="Space"></span>
 
 # Stevner 2021/2022
-_Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett. Sjekk [Arrangementskalenderen](https://mittdfs.no/aktuelt-na/arrangementskalender/?time=NextThirtyDays&includeLocal=False&a=False&region=10036)_
 
 <span class="Space"></span>
 - November 2021
     - ~~[Hornindal og Markane, 18.-21. november 2021](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2021/innandorsstemne-miniatyr/)~~
     - ~~[Nordbygda og Rand, 20.-21. november 2021](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2021/retura-cup-15m---nordbygda-og-rand/)~~
 - Januar 2022
-    - ~~[Hundeide, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hundeide/arrangementer/2022/15-m-miniatyr/)~~ Avlyst?
-    - ~~[Haugen, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/haugen/arrangementer/2022/15-m-miniatyr/)~~ Avlyst?
-    - ~~[Hornindal og Markane, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2022/15-m-miniatyr/)~~ Avlyst?
+    - ~~[Hundeide, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hundeide/arrangementer/2022/15-m-miniatyr/)~~ Avlyst
+    - ~~[Haugen, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/haugen/arrangementer/2022/15-m-miniatyr/)~~ Avlyst
+    - ~~[Hornindal og Markane, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2022/15-m-miniatyr/)~~ Avlyst
     - ~~[Hyen, 20.-23. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hyen/arrangementer/2022/15-m-miniatyr/)~~
     - ~~[Eidsbygda, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/eidsbygda/arrangementer/2022/15-m-miniatyr/)~~
     - ~~[Utvik og Innvik, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/utvik-og-innvik/arrangementer/2022/15-m-miniatyr/)~~
     - ~~[Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2022/15-m-miniatyr/)~~
 - Februar 2022    
     -  ~~[Stadlandet, 4.-6. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/stadlandet/arrangementer/2022/15-m-miniatyr/)~~
-    -  [Almenning/Bryggja, (25.)26.-27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/almenning/arrangementer/2022/15-m-miniatyr/)
-    -  [Gulen, 23. og 27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/gulen/arrangementer/2022/15-m-miniatyr/)
+    -  ~~[Almenning/Bryggja, (25.)26.-27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/almenning/arrangementer/2022/15-m-miniatyr/)~~
+    -  ~~[Gulen, 23. og 27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/gulen/arrangementer/2022/15-m-miniatyr/)~~
 - Mars 2022
     -  **Finaler:** [Hornindal og Markane, 15-17. mars](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2022/15-m-miniatyr2/)
 <span class="Space"></span>
