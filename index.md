@@ -29,8 +29,8 @@ span.sectionSpace { margin-top:15em;  display:block; }
 <span class="Space"></span>
 
 Retura-cup i Nordfjord er en cup for miniatyrstevnene i Nordfjord Skyttarsamlag.\
-De beste skytterne inviteres til en finale (Hornindal og Markane 15.-17. mars 2022).\
 Det er premiering i rekrutteringsklassene. I senior og veteran er det en konkurranse om heder og ære.\
+
 <span class="Space"></span>
 
 
