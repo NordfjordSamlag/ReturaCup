@@ -33,51 +33,6 @@ De beste skytterne inviteres til en finale (Hornindal og Markane 15.-17. mars 20
 Det er premiering i rekrutteringsklassene. I senior og veteran er det en konkurranse om heder og ære.\
 <span class="Space"></span>
 
-# Resultater 2021/2022
-
-## [Resultater innledende](./2021_2022/ResultList.html)
-> _7* stevner er tellende for 2022_  (*Feb 2022: Endret fra 8 til 7 pga avlyste stevner i år)
-<br>
-
-<span class="Space"></span>
-
-# Stevner 2021/2022
-
-<span class="Space"></span>
-- November 2021
-    - ~~[Hornindal og Markane, 18.-21. november 2021](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2021/innandorsstemne-miniatyr/)~~
-    - ~~[Nordbygda og Rand, 20.-21. november 2021](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2021/retura-cup-15m---nordbygda-og-rand/)~~
-- Januar 2022
-    - ~~[Hundeide, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hundeide/arrangementer/2022/15-m-miniatyr/)~~ Avlyst
-    - ~~[Haugen, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/haugen/arrangementer/2022/15-m-miniatyr/)~~ Avlyst
-    - ~~[Hornindal og Markane, 15.-16. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2022/15-m-miniatyr/)~~ Avlyst
-    - ~~[Hyen, 20.-23. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hyen/arrangementer/2022/15-m-miniatyr/)~~
-    - ~~[Eidsbygda, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/eidsbygda/arrangementer/2022/15-m-miniatyr/)~~
-    - ~~[Utvik og Innvik, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/utvik-og-innvik/arrangementer/2022/15-m-miniatyr/)~~
-    - ~~[Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/nordbygda-og-rand/arrangementer/2022/15-m-miniatyr/)~~
-- Februar 2022    
-    -  ~~[Stadlandet, 4.-6. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/stadlandet/arrangementer/2022/15-m-miniatyr/)~~
-    -  ~~[Almenning/Bryggja, (25.)26.-27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/almenning/arrangementer/2022/15-m-miniatyr/)~~
-    -  ~~[Gulen, 23. og 27. februar](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/gulen/arrangementer/2022/15-m-miniatyr/)~~
-- Mars 2022
-    -  **Finaler:** [Hornindal og Markane, 15-17. mars](https://mittdfs.no/Skytterlagssider/fjordane-krets/nordfjord/hornindal-og-markane/arrangementer/2022/15-m-miniatyr2/)
-<span class="Space"></span>
-
-## Enkeltresultater Stevner
-- November 2021
-    - [Hornindal og Markane](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=214250)
-    - [Nordbygda og Rand](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2021&includeLocal=False&querystring=&eventId=214207)
-- Januar 2022
-    - [Hyen, 20.-23. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22036)
-    - [Eidsbygda, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22037)    
-    - [Utvik og Innvik, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22038)
-    - [Nordbygda og Rand, 27.-30. januar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22039)
-- Februar 2022
-    - [Stadlandet, 4.-6. februar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22041)
-    - [Almenning/Bryggja, (25.)26.-27. februar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22040)
-    - [Gulen, 23. og 27. februar](https://mittdfs.no/aktuelt-na/resultater/?search=True&registered=&type=&region=10036&year=2022&includeLocal=False&querystring=&eventId=22042)
-
-
 
 <!-- [Results](https://mittdfs.no/aktuelt-na/resultater/) -->
 
@@ -85,6 +40,10 @@ Det er premiering i rekrutteringsklassene. I senior og veteran er det en konkurr
 
 
 # Historiske resultater
+## Resultater 2021/2022
+### [Resultater innledende](./2021_2022/ResultList.html)
+### [Resultater finale](./2021_2022/Finale_ReturaCup_2022.pdf)
+
 ## Resultater 2019/2020
 ### [Resultater innledende](./2019_2020/ResultList.html)
 ### [Resultater finale](./2019_2020/Final.html)
