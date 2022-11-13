@@ -37,7 +37,7 @@ ul {
     text-align: center;    
     margin-left: auto;
     margin-right: auto;
-    color: red;
+    color: #e10025;
     font-size: 50px;
     font-weight: bolder;
   }
@@ -46,14 +46,14 @@ ul {
     text-align: center;    
     margin-left: auto;
     margin-right: auto;
-    color: red;
+    color: #e10025;
     font-size: 40px;
     font-weight: bolder;
     margin-bottom: 50px;
   }
 
   h2 {
-    color: red;
+    color: #e10025;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
@@ -217,7 +217,7 @@ ul {
   }
 
   td.total{
-    background: red;
+    background: #e10025;
     text-align: center;
     font-weight: bold;
     
@@ -234,7 +234,7 @@ ul {
 
   table td.crossed
   {
-   background-image: linear-gradient(to bottom right,  transparent calc(50% - 1px), red, transparent calc(50% + 1px)); 
+   background-image: linear-gradient(to bottom right,  transparent calc(50% - 1px), #e10025, transparent calc(50% + 1px)); 
   }
 
   p.striked {
