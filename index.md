@@ -33,10 +33,11 @@ Det er premiering i rekrutteringsklassene. I senior og veteran er det en konkurr
 [Poengfordeling](/poeng.md)
 
 <span class="Space"></span>
-<!-- 
+
 ## [Resultater innledende](./2022_2023/ResultList.html)
--->
+
 > Antall tellende stevner for 2023 er foreløpig ikke avgjort
+
 <br>
 <span class="Space"></span>
 # Stevner 2022/2023
