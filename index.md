@@ -47,11 +47,11 @@ Sjekk [Arrangementskalenderen](https://mittdfs.no/pamelding/?293143__gunRegionId
 - Oktober 2022
     - [Resultat: Bryggja/Almenning, 28.-30. oktober](https://mittdfs.no/resultater/stevne/?eventId=22056)
 - November 2022
-    - [Resultat: Stadlandet, 3.-5. november ](https://mittdfs.no/resultater/stevne/?eventId=22057)
-    - [Påmelding: Nordbygda og Rand, 11.-13. november](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=22059)
-    - [Påmelding: Eidsbygda, 11.-13. november](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=22059)
+    - [Resultat: Stadlandet, 3.-5. november](https://mittdfs.no/resultater/stevne/?eventId=22057)
+    - [Resultat: Nordbygda og Rand, 11.-13. november](https://mittdfs.no/resultater/stevne/?eventId=22058)
+    - [Resultat: Eidsbygda, 11.-13. november](https://mittdfs.no/resultater/stevne/?eventId=22059)
     - [Påmelding: Hornindal og Markane, 15.-19. november](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=223112)
-    - [Påmelding: Hundeide, 16.-19.november](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=22061)    
+    - [Påmelding: Hundeide, 16.-19.november](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=22061)
 - Januar 2023
     - [kommer](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding)
 
