@@ -46,19 +46,23 @@ _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett.
 Sjekk [Arrangementskalenderen](https://mittdfs.no/pamelding/?293143__gunRegionId=10036&293143__dateTo=2023-04-01&293143__dateFrom=2022-10-24&293143__tab=all)_
 <span class="Space"></span>
 - Oktober 2022
-    - [Resultat: Bryggja/Almenning, 28.-30. oktober](https://mittdfs.no/resultater/stevne/?eventId=22056)
+    - [🎖️Resultat: Bryggja/Almenning, 28.-30. oktober](https://mittdfs.no/resultater/stevne/?eventId=22056)
 - November 2022
-    - [Resultat: Stadlandet, 3.-5. november](https://mittdfs.no/resultater/stevne/?eventId=22057)
-    - [Resultat: Nordbygda og Rand, 11.-13. november](https://mittdfs.no/resultater/stevne/?eventId=22058)
-    - [Resultat: Eidsbygda, 11.-13. november](https://mittdfs.no/resultater/stevne/?eventId=22059)
-    - [Resultat: Hornindal og Markane, 15.-19. november](https://mittdfs.no/resultater/stevne/?eventId=223112)
-    - [Resultat: Hundeide, 16.-19.november](https://mittdfs.no/resultater/stevne/?eventId=22061)
+    - [🎖️Resultat: Stadlandet, 3.-5. november](https://mittdfs.no/resultater/stevne/?eventId=22057)
+    - [🎖️Resultat: Nordbygda og Rand, 11.-13. november](https://mittdfs.no/resultater/stevne/?eventId=22058)
+    - [🎖️Resultat: Eidsbygda, 11.-13. november](https://mittdfs.no/resultater/stevne/?eventId=22059)
+    - [🎖️Resultat: Hornindal og Markane, 15.-19. november](https://mittdfs.no/resultater/stevne/?eventId=223112)
+    - [🎖️Resultat: Hundeide, 16.-19.november](https://mittdfs.no/resultater/stevne/?eventId=22061)
 - Januar 2023
-    - [kommer](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding)
+    - [📇Horninal og Markane, 10.-15. januar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=224285)
+    - [📇Hundeide, 12.-15. januar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=224353)        
+    - [📇Haugen, 13.-15. januar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=224284)
+        - [🎯Livevisning](https://mllive.megalink.no/)
 
 <!-- [Results](https://mittdfs.no/aktuelt-na/resultater/) -->
 <!-- ~~[striked](https://)~~ -->
 <span class="Space"></span>
+
 
 
 # Historiske resultater
