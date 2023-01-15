@@ -54,13 +54,17 @@ Sjekk [Arrangementskalenderen](https://mittdfs.no/pamelding/?293143__gunRegionId
     - [🎖️Resultat: Hornindal og Markane, 15.-19. november](https://mittdfs.no/resultater/stevne/?eventId=223112)
     - [🎖️Resultat: Hundeide, 16.-19.november](https://mittdfs.no/resultater/stevne/?eventId=22061)
 - Januar 2023
-    - [📇Horninal og Markane, 10.-15. januar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=224285)
-    - [📇Hundeide, 12.-15. januar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=224353)        
-    - [📇Haugen, 13.-15. januar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=224284)
-        - [🎯Livevisning](https://mllive.megalink.no/)
-
-<!-- [Results](https://mittdfs.no/aktuelt-na/resultater/) -->
-<!-- ~~[striked](https://)~~ -->
+    - [🎖️Resultat: Horninal og Markane, 10.-15. januar](https://mittdfs.no/resultater/stevne/?eventId=224285)
+    - [🎖️Resultat: Hundeide, 12.-15. januar](https://mittdfs.no/resultater/stevne/?eventId=224353)        
+    - [🎖️Resultat: Haugen, 13.-15. januar](https://mittdfs.no/resultater/stevne/?eventId=224284)
+    - [📇Eidsbygda, 26.-29. januar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=23097) 
+    - [📇Utvik og Innvik, 26.-29. januar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=23098) 
+- Februar 2023
+    - [📇Almenning, 26.-29. januar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=23273) 
+<!-- [🎖️Resultater](https://mittdfs.no//resultater/stevne/?eventId=22059) -->  
+<!--  [🎯Livevisning](https://mllive.megalink.no/) -->  
+<!-- [📇, 13.-15. januar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=) -->  
+<!-- ~~[striked](https://)~~ -->  
 <span class="Space"></span>
 
 
