@@ -60,8 +60,8 @@ Sjekk [Arrangementskalenderen](https://mittdfs.no/pamelding/?293143__gunRegionId
     - [🎖️Eidsbygda, 26.-29. januar](https://mittdfs.no/resultater/stevne/?eventId=23097) 
     - [🎖️Utvik og Innvik, 26.-29. januar](https://mittdfs.no/resultater/stevne/?eventId=23098) 
 - Februar 2023
-    - [📇Almenning, 10.-12. februar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=23273)  
-    - [📇Stadlandet, 11.-12. februar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=23411)  
+    - [🎖️Almenning, 10.-12. februar](https://mittdfs.no/resultater/stevne/?eventId=23273)  
+    - [🎖️Stadlandet, 11.-12. februar](https://mittdfs.no/resultater/stevne/?eventId=23411)  
     - [📇Hyen, 16.-18. februar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=23274)  
 <br><br>
 ## [Finale: Hornindal og Markane, 14.-16. mars](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=23275)
