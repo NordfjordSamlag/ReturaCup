@@ -36,7 +36,7 @@ Det er premiering i rekrutteringsklassene. I senior og veteran er det en konkurr
 
 # [Resultater innledende](./2022_2023/ResultList.html)
 
-> Antall tellende stevner og fordelingen av finaleplasser mellom klassene er ikke avgjort for 2023  
+
 
 <br>
 <span class="Space"></span> 
