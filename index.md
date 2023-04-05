@@ -40,39 +40,38 @@ Det er premiering i rekrutteringsklassene. I senior og veteran er det en konkurr
 
 
 <br>
-<span class="Space"></span> 
-<!--
-# Stevner 2022/2023
-_Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett.  
-Sjekk [Arrangementskalenderen](https://mittdfs.no/pamelding/?293143__gunRegionId=10036&293143__dateTo=2023-04-01&293143__dateFrom=2022-10-24&293143__tab=all)_
-<span class="Space"></span>
-- Oktober 2022
-    - [🎖️Resultat: Bryggja/Almenning, 28.-30. oktober](https://mittdfs.no/resultater/stevne/?eventId=22056)
-- November 2022
-    - [🎖️Resultat: Stadlandet, 3.-5. november](https://mittdfs.no/resultater/stevne/?eventId=22057)
-    - [🎖️Resultat: Nordbygda og Rand, 11.-13. november](https://mittdfs.no/resultater/stevne/?eventId=22058)
-    - [🎖️Resultat: Eidsbygda, 11.-13. november](https://mittdfs.no/resultater/stevne/?eventId=22059)
-    - [🎖️Resultat: Hornindal og Markane, 15.-19. november](https://mittdfs.no/resultater/stevne/?eventId=223112)
-    - [🎖️Resultat: Hundeide, 16.-19.november](https://mittdfs.no/resultater/stevne/?eventId=22061)
-- Januar 2023
-    - [🎖️Resultat: Horninal og Markane, 10.-15. januar](https://mittdfs.no/resultater/stevne/?eventId=224285)
-    - [🎖️Resultat: Hundeide, 12.-15. januar](https://mittdfs.no/resultater/stevne/?eventId=224353)        
-    - [🎖️Resultat: Haugen, 13.-15. januar](https://mittdfs.no/resultater/stevne/?eventId=224284)
-    - [🎖️Eidsbygda, 26.-29. januar](https://mittdfs.no/resultater/stevne/?eventId=23097) 
-    - [🎖️Utvik og Innvik, 26.-29. januar](https://mittdfs.no/resultater/stevne/?eventId=23098) 
-- Februar 2023
-    - [🎖️Almenning, 10.-12. februar](https://mittdfs.no/resultater/stevne/?eventId=23273)  
-    - [🎖️Stadlandet, 11.-12. februar](https://mittdfs.no/resultater/stevne/?eventId=23411)  
-    - [🎖️Hyen, 16.-18. februar](https://mittdfs.no/resultater/stevne/?eventId=23274)  
-<br><br>
+<!-- <span class="Space"></span>  -->
 
-## [Finale: Hornindal og Markane, 14.-16. mars](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=23275)
--->
+<!-- # Stevner 2022/2023 -->
+<!-- _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett.  -->
+<!-- Sjekk [Arrangementskalenderen](https://mittdfs.no/pamelding/?293143__gunRegionId=10036&293143__dateTo=2023-04-01&293143__dateFrom=2022-10-24&293143__tab=all)_  -->
+<!-- <span class="Space"></span> -->
+<!-- - Oktober 2022 -->
+<!--     - [🎖️Resultat: Bryggja/Almenning, 28.-30. oktober](https://mittdfs.no/resultater/stevne/?eventId=22056) -->
+<!-- - November 2022 -->
+<!--     - [🎖️Resultat: Stadlandet, 3.-5. november](https://mittdfs.no/resultater/stevne/?eventId=22057) -->
+<!--     - [🎖️Resultat: Nordbygda og Rand, 11.-13. november](https://mittdfs.no/resultater/stevne/?eventId=22058) -->
+<!--     - [🎖️Resultat: Eidsbygda, 11.-13. november](https://mittdfs.no/resultater/stevne/?eventId=22059) -->
+<!--     - [🎖️Resultat: Hornindal og Markane, 15.-19. november](https://mittdfs.no/resultater/stevne/?eventId=223112) -->
+<!--     - [🎖️Resultat: Hundeide, 16.-19.november](https://mittdfs.no/resultater/stevne/?eventId=22061) -->
+<!-- - Januar 2023 -->
+<!--     - [🎖️Resultat: Horninal og Markane, 10.-15. januar](https://mittdfs.no/resultater/stevne/?eventId=224285) -->
+<!--     - [🎖️Resultat: Hundeide, 12.-15. januar](https://mittdfs.no/resultater/stevne/?eventId=224353) -->
+<!--     - [🎖️Resultat: Haugen, 13.-15. januar](https://mittdfs.no/resultater/stevne/?eventId=224284) -->
+<!--     - [🎖️Eidsbygda, 26.-29. januar](https://mittdfs.no/resultater/stevne/?eventId=23097)  -->
+<!--     - [🎖️Utvik og Innvik, 26.-29. januar](https://mittdfs.no/resultater/stevne/?eventId=23098)  -->
+<!-- - Februar 2023 -->
+<!--     - [🎖️Almenning, 10.-12. februar](https://mittdfs.no/resultater/stevne/?eventId=23273)   -->
+<!--     - [🎖️Stadlandet, 11.-12. februar](https://mittdfs.no/resultater/stevne/?eventId=23411)   -->
+<!--     - [🎖️Hyen, 16.-18. februar](https://mittdfs.no/resultater/stevne/?eventId=23274)   -->
+<!-- <br><br> -->
+
+<!-- ## [Finale: Hornindal og Markane, 14.-16. mars](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=23275) -->
 <!-- [🎖️Resultater](https://mittdfs.no//resultater/stevne/?eventId=22059) -->  
 <!--  [🎯Livevisning](https://mllive.megalink.no/) -->  
 <!-- [📇, 13.-15. januar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=) -->  
 <!-- ~~[striked](https://)~~ -->  
-<span class="Space"></span>
+<!-- <span class="Space"></span>  -->
 
 
 
