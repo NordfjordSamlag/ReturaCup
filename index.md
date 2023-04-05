@@ -34,13 +34,14 @@ Det er premiering i rekrutteringsklassene. I senior og veteran er det en konkurr
 
 <span class="Space"></span>
 
+<!--
 # [Resultater innledende](./2022_2023/ResultList.html)
-
+-->
 
 
 <br>
 <span class="Space"></span> 
-
+<!--
 # Stevner 2022/2023
 _Obs - dato og info på stevner angitt kan avvike fra arrangørens oppsett.  
 Sjekk [Arrangementskalenderen](https://mittdfs.no/pamelding/?293143__gunRegionId=10036&293143__dateTo=2023-04-01&293143__dateFrom=2022-10-24&293143__tab=all)_
@@ -64,8 +65,9 @@ Sjekk [Arrangementskalenderen](https://mittdfs.no/pamelding/?293143__gunRegionId
     - [🎖️Stadlandet, 11.-12. februar](https://mittdfs.no/resultater/stevne/?eventId=23411)  
     - [🎖️Hyen, 16.-18. februar](https://mittdfs.no/resultater/stevne/?eventId=23274)  
 <br><br>
-## [Finale: Hornindal og Markane, 14.-16. mars](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=23275)
 
+## [Finale: Hornindal og Markane, 14.-16. mars](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=23275)
+-->
 <!-- [🎖️Resultater](https://mittdfs.no//resultater/stevne/?eventId=22059) -->  
 <!--  [🎯Livevisning](https://mllive.megalink.no/) -->  
 <!-- [📇, 13.-15. januar](https://mittdfs.no/hovedside/aktuelt-na/arrangementskalender/pamelding/?eventId=) -->  
@@ -75,6 +77,10 @@ Sjekk [Arrangementskalenderen](https://mittdfs.no/pamelding/?293143__gunRegionId
 
 
 # Historiske resultater
+## Resultater 2022/2023  
+### [Resultater innledende](./2022_2023/ResultList.html)  
+### [Resultater finale](https://mittdfs.no/resultater/stevne/?eventId=23275)
+
 ## Resultater 2021/2022
 ### [Resultater innledende](./2021_2022/ResultList.html)
 ### [Resultater finale](./2021_2022/Finale_ReturaCup_2022.pdf)
